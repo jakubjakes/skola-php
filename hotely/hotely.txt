@@ -1,0 +1,1001 @@
+﻿cislo;nazev;typ;ulice;mesto;psc;hvezdicky;pocetluzek;parkoviste
+1;A-Bonet;penzion;Nekoř;Nekoř;561 63;;28;ANO
+2;A club;penzion;Pekařská;Opava;746 01;***;35;NE
+3;AB Armabeton;hotel;Žižkovo náměstí;Chomutov;430 01;*;200;NE
+4;AB penzion;penzion;U Dýhárny;Kralupy nad Vltavou;278 01;***;60;ANO
+5;Aberg;hotel;Sovova stezka;Karlovy Vary;360 01;****;21;ANO
+6;Abri;hotel;Jana Masaryka;Praha 2 - Vinohrady;120 00;***;55;ANO
+7;Accommodation Sladová;penzion;Parkán;Český Krumlov;381 01;;7;NE
+8;Acord;hotel;Rostislavova;Praha 4 - Nusle;140 00;***;63;ANO
+9;Actus;hotel;náměstí T. G. Masaryka;Loket;357 33;***;28;ANO
+10;Adam;hotel;Havlíčkova;Trutnov;541 01;****;73;ANO
+11;Adamantino;hotel;Pozlovice;Pozlovice;763 26;**;160;NE
+12;Adast;hotel;Pod Horkou;Adamov;679 04;;25;ANO
+13;Adélka;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;***;44;NE
+14;Adler - České Budějovice;hotel;Klostermannova;České Budějovice;370 04;***;48;NE
+15;Adler - Police nad Metují;penzion;Ledhujská;Police nad Metují;549 54;;50;NE
+16;Admira Kobylisy;hotel;Na pecích;Praha 8 - Kobylisy;180 00;*;36;NE
+17;Admirál;botel;Hořejší nábřeží;Praha 5 - Smíchov;150 00;***;180;NE
+18;Adria - Brandýs nad Labem;hotel;Výletní;Brandýs nad Labem;250 01;**;20;ANO
+19;Adria - Karlovy Vary;hotel;Západní;Karlovy Vary;360 01;**;68;ANO
+20;Adria - Praha;hotel;Václavské náměstí;Praha 1 - Nové Město;110 00;****;126;NE
+21;Agricola - Mariánské Lázně;hotel;Tyršova;Mariánské Lázně;353 01;***;200;NE
+22;Agricola - Praha;hotel;Rostovská;Praha 10 - Vršovice;100 00;***;22;ANO
+23;Agro;motel;Kasejovice;Kasejovice;335 44;**;45;NE
+24;Agropa;hotel;Sycherák;Stráž;348 05;**;105;NE
+25;Achát - Malý Semerink;hotel;Malý Semerink;Malý Semerink;468 11;***;95;NE
+26;Achát - Železnice;motel;Žižkova;Železnice;507 13;;80;NE
+27;Aichingerová Zdeňka;penzion;Bořivojova;Rakovník;269 01;;8;NE
+28;Albatros;botel;nábřeží L. Svobody;Praha 1 - Nové Město;110 00;***;180;NE
+29;Alberon;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;*;35;NE
+30;Alberta;penzion;Drozdovice;Prostějov;796 01;***;15;NE
+31;Alice;hotel;Hamerská;Karlovy Vary;362 15;***;146;NE
+32;Allegro;motel;Dachová;Hořice;508 01;;110;NE
+33;Alpina;penzion;Stavební;Jablonec nad Nisou;466 01;;12;NE
+34;Alpský hotel;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;***;36;NE
+35;Alta;hotel;Ortenovo náměstí;Praha 7 - Holešovice;170 00;***;174;NE
+36;Altmotel;motel;Brněnská;Olomouc;779 00;***;130;NE
+37;Amadeus - České Budějovice;hotel;Matice školské;České Budějovice;370 01;***;25;ANO
+38;Amadeus - Karlovy Vary;penzion;Ondřejská;Karlovy Vary;360 01;***;28;ANO
+39;Amátka;penzion;Kavčí plácek;Hradec Králové;500 02;;13;NE
+40;Ambassador - Zlatá husa;hotel;Václavské náměstí;Praha 1 - Nové Město;111 24;****;295;ANO
+41;Amber;hotel;Benešov;Benešov;256 01;****;80;NE
+42;Amco;hotel;Masarykovo náměstí;Zábřeh;789 01;***;20;ANO
+43;America Interhotel;hotel;R. Weinera;Písek;397 01;****;86;NE
+44;Amerika;hotel;;Velké Meziříčí;594 01;***;72;ANO
+45;Ametyst - Praha;hotel;Jana Masaryka;Praha 2 - Vinohrady;120 00;****;167;NE
+46;Amor;penzion;Štiková;Plzeň;301 00;**;3;NE
+47;Amos;hotel;Fučíkova;Fulnek;742 45;***;22;ANO
+48;Amphone;hotel;třída kpt. Jaroše;Brno;602 00;***;75;ANO
+49;Andante;hotel;Ve Smečkách;Praha 1 - Nové Město;110 00;***;65;ANO
+50;Anděl - Andělská Hora;hotel;Andělská Hora;Andělská Hora;793 32;**;45;NE
+51;Anděl - Praha;hotel;Radlická;Praha 5 - Smíchov;150 00;***;28;ANO
+52;Aneta;penzion;;Soběšovice;739 22;;60;ANO
+53;Angela;hotel;Masarykovo náměstí;Bystřice nad Pernštejnem;593 01;;50;NE
+54;Anita;penzion;Benátky;Vranov nad Dyjí;671 03;***;60;ANO
+55;Anna - Kutná Hora;hotel;Vladislavova;Kutná Hora;284 01;***;25;ANO
+56;Anna - Nejdek;hotel;náměstí Karla IV.;Nejdek;362 21;**;16;ANO
+57;Anna - Praha;hotel;Budečská;Praha 2 - Vinohrady;120 00;***;54;ANO
+58;Anna - Ramzová;penzion;Ramzová;Ramzová;788 26;**;16;ANO
+59;Anna - Vimperk;hotel;Kaplířova;Vimperk;385 01;***;87;NE
+60;Anna Marie;hotel;Lázeňská;Lázně Bělohrad;507 81;****;88;NE
+61;Antik;penzion;náměstí Republiky;Kladruby;349 61;***;12;NE
+62;Antonea;penzion;Čistá;Čistá;512 35;**;23;ANO
+63;Antýgl;penzion;Vchýnice;Srní;341 94;**;36;NE
+64;Aparthotel Nitsch;hotel;Blatného;Praha 5 - Nové Butovice;150 00;***;121;NE
+65;APARTMÁ No. 20;penzion;Radošovice;Radošovice;373 41;;5;NE
+66;Apartmán;penzion;Nerudova;Rajhrad;664 61;***;5;NE
+67;Apartment Hluboká;hotel;Masarykova;Hluboká nad Vltavou;373 41;****;50;NE
+68;Apetit;motel;Pražská;Letovice;679 61;;10;NE
+69;Apollo - Hlinné;penzion;Hlinné;Hlinné;592 31;;35;NE
+70;Apollo - Praha;hotel;Kubišova;Praha 8 - Libeň;182 00;***;74;ANO
+71;Apollon - Praha;hotel;Koněvova;Praha 3 - Žižkov;130 00;***;126;NE
+72;Apollon - Valtice;hotel;Petra Bezruče;Valtice;691 42;***;51;ANO
+73;Arcade;hotel;Masarykovo náměstí;Podivín;691 45;***;20;ANO
+74;Area;hotel;Deštné v Orlických horách;Deštné v Orlických horách;517 91;**;54;ANO
+75;Argenta;hotel;Ústřední;Praha 10 - Štěrboholy;102 00;**;30;NE
+76;Archa;hotel;Česká;Vyšší Brod;382 73;***;20;ANO
+77;Ariston I.;hotel;Seifertova;Praha 3 - Žižkov;130 00;***;129;NE
+78;Arkáda - Bučovice;motel;náměstí Svobody;Bučovice;685 01;**;70;ANO
+79;Arkus;motel;;Černožice nad Labem;503 04;***;34;NE
+80;Armabeton - Bedřichov;penzion;Bedřichov;Bedřichov;468 12;**;86;NE
+81;Armabeton - Karlovy Vary;penzion;Sokolovská;Karlovy Vary;360 01;*;51;ANO
+82;Armabeton - Rýžoviště;hotel;;Rýžoviště;512 46;***;71;ANO
+83;Armin penzion Jip;penzion;Lipno nad Vltavou;Lipno nad Vltavou;382 78;***;60;ANO
+84;Arnica;hotel;Fialova;Praha 10 - Záběhlice;100 00;**;578;ANO
+85;Arnika - Kubova Huť;hotel;;Kubova Huť;385 01;***;80;NE
+86;Arnika - Rudník u Vrchlabí;hotel;Rudník;Rudník;543 72;***;58;ANO
+87;Arnika - Špindlerův Mlýn;hotel;Labská;Špindlerův Mlýn;543 51;***;396;ANO
+88;Árny;penzion;Horní Malá Úpa;Horní Malá Úpa;542 27;;22;ANO
+89;Aron Garni;hotel;Žerotínova;Praha 3 - Žižkov;130 00;***;94;NE
+90;Arpos;penzion;Pasohlávky;Pasohlávky;691 22;;10;NE
+91;Artex;penzion;Špindlerův Mlýn;Špindlerův Mlýn;543 51;***;10;NE
+92;Asas;motel;Hraniční;Most;435 02;***;41;NE
+93;Atos;hotel;Trocnovská;Trhové Sviny;374 01;***;55;ANO
+94;Atrium - Liberec;hotel;Generála Svobody;Liberec;460 11;***;50;NE
+95;Atrium - Modřice;penzion;náměstí Svobody;Modřice;664 42;***;15;NE
+96;Atrium - Sušice;penzion;Zahradní;Sušice;342 01;;10;NE
+97;Attic;hotel;Hanusova;Praha 4 - Michle;140 00;***;54;ANO
+98;Aura;penzion;Polesí;Polesí;463 55;;25;ANO
+99;Aurelius;penzion;Družstevní;Pavlov;690 02;**;43;NE
+100;Aurum - Černý Důl;hotel;;Černý Důl;543 44;***;106;NE
+101;Austerlitz;hotel;Táborského nábřeží;Brno;639 00;***;64;ANO
+102;Austis;penzion;Václavské náměstí;Znojmo;669 00;***;17;ANO
+103;Aveco;hotel;Pod kostelíčkem;Liběchov;277 21;***;15;NE
+104;Avena;penzion;Benešova;Stříbro;349 01;**;10;NE
+105;Avia;hotel;Bohumínská;Praha 9 - Letňany;199 00;**;300;ANO
+106;Avignon;penzion;Karlova;Plzeň;301 00;***;16;ANO
+107;Avion - Praha;hotel;Kladenská;Praha 6 - Vokovice;160 00;***;90;NE
+108;Avion - Prostějov;hotel;náměstí E. Husserla;Prostějov;796 01;**;50;NE
+109;Avion - Ústí nad Orlicí;hotel;Štefánikova;Ústí nad Orlicí;562 01;;28;ANO
+110;Axa - ACCT;hotel;Na Poříčí;Praha 1 - Nové Město;110 00;***;247;NE
+111;Axiom;penzion;Kovářov;Kovářov;382 79;;45;NE
+112;Azalka;motel;Celní;Hlučín;748 01;;12;NE
+113;B+B - Bezdružice;hotel;náměstí Kryštofa Haranta;Bezdružice;349 53;***;24;ANO
+114;B+B - Ejpovice;penzion;Ejpovice;Ejpovice;337 01;;11;NE
+115;B+L;penzion;Arbesova;Rokycany;337 01;;11;NE
+116;Babůrek - Nový Dvůr;penzion;;Nový Dvůr;384 73;;40;NE
+117;Bajkal;hotel;Americká;Františkovy Lázně;351 01;***;84;NE
+118;Bakalář;hotel;Masarykova;Hluboká nad Vltavou;373 41;***;20;ANO
+119;Balášova pálenice;penzion;Vracovská;Bzenec;696 81;;15;NE
+120;Balbín;penzion;Balbínova;Praha 2 - Vinohrady;120 00;***;38;NE
+121;Balkán;hotel;Svornosti;Praha 5 - Smíchov;150 00;**;60;ANO
+122;Balnea;soukro;Chrastice;Chrastice;788 32;;65;ANO
+123;Balounová H.;penzion;Čejov;Čejov;396 01;;8;NE
+124;Baltazar;penzion;Pod radnicí;Žamberk;564 01;***;8;NE
+125;Baroko;hotel;Tomsova;Praha 10 - Malešice;100 00;***;55;ANO
+126;Bárta;penzion;Špičák;Špičák;340 04;;17;ANO
+127;Bartušek;hotel;Počátecká;Studená;378 56;;41;NE
+128;Barum;hotel;třída Tomáše Bati;Otrokovice;765 02;**;114;NE
+129;Barunka;penzion;náměstí Svobody;Jeseník;790 01;;16;ANO
+130;Bauer;penzion;Vorlíčkova;Doksy;273 64;**;6;NE
+131;Bavor;hotel;Na ohradě;Strakonice;386 01;***;133;NE
+132;Bavorský Dvůr;hotel;1. máje;Karlovy Vary;360 06;***;64;ANO
+133;Bázum;penzion;Horní Vltavice;Horní Vltavice;384 91;;20;ANO
+134;Bažantnice;penzion;Bažantice;Třebíč;674 01;*;15;NE
+135;Bečva - Horní Bečva;hotel;Na chalupě;Horní Bečva;756 57;***;59;ANO
+136;Bečva - Rožnov pod Radhoštěm;penzion;Meziříčská;Rožnov pod Radhoštěm;756 61;***;64;ANO
+137;Bečvice;soukro;;Horní Bečva;756 57;;58;ANO
+138;Bednář - Chlébské;hotel;Chlébské;Chlébské;592 62;;40;NE
+139;Bedrníček;hotel;Babylon;Babylon;345 31;**;40;NE
+140;Bedřichov;hotel;Bedřichov;Bedřichov;543 51;***;320;ANO
+141;Bedřiška;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;**;20;ANO
+142;Beethoven;hotel;Lázeňský sad;Teplice;415 01;****;360;ANO
+143;Benešovský mlýn;penzion;Benešovský Mlýn;Benešovský Mlýn;398 11;;137;NE
+144;Beránek - Blatná;hotel;náměstí Míru;Blatná;388 01;**;32;NE
+145;Beránek - Klatovy;hotel;Na Rybníčkách;Klatovy;339 01;**;46;NE
+146;Berková Hana;penzion;Fučíkova;Raspenava;463 61;;6;NE
+147;Berlin;hotel;Kollárova;Mariánské Lázně;353 01;****;60;ANO
+148;Bernard;motel;Starý Pelhřimov;Pelhřimov;393 01;;29;ANO
+149;Berounka;hotel;Srbsko;Srbsko;267 18;**;17;ANO
+150;Beskydy;penzion;Visalaje;Pražmo;739 04;**;53;ANO
+151;Best-Garni;hotel;Na střelnice;Olomouc 2;772 00;**;52;ANO
+152;Best - Ostrava;hotel;Keltičkova;Ostrava;710 00;***;20;ANO
+153;Best - Žamberk;penzion;Na skalách;Žamberk;564 01;**;5;NE
+154;Best Western - International;hotel;Husova;Brno;659 21;****;393;ANO
+155;Bestar;hotel;Průmyslová;Kosmonosy;293 06;**;50;NE
+156;Beta;hotel;Roškotova;Praha 4 - Braník;140 44;*;265;NE
+157;Betlem Club;hotel;Betlémské náměstí;Praha 1 - Staré Město;110 00;***;40;NE
+158;Betnem;penzion;Tuřanka;Brno - Slatina;627 00;***;7;NE
+159;Betty;penzion;Okounov;Okounov;431 51;;38;NE
+160;Bezděkov;penzion;Soukupova;Rakovník;269 01;;14;NE
+161;Bezděz - Staré Splavy;hotel;Lázeňský vrch;Staré Splavy;471 63;**;310;ANO
+162;Bezdrev;penzion;Králičí vrch;Zliv;373 44;;20;ANO
+163;Bílá labuť - Pec pod Sněžkou;penzion;Pec pod Sněžkou;Pec pod Sněžkou;542 21;;47;NE
+164;Bílá labuť - Praha;hotel;Biskupská;Praha 1 - Nové Město;110 00;****;108;NE
+165;Bílá paní;hotel;Dobrovského;Jindřichův Hradec;377 01;***;13;NE
+166;Bílá růže - Brno;hotel;Svatopetrská;Brno;617 00;***;41;NE
+167;Bílá růže - Písek;hotel;Šrámkova;Písek;397 01;***;50;NE
+168;Bílá vrána - Bedřichov;penzion;Bedřichov;Bedřichov;468 12;**;120;NE
+169;Bílé Skály;hotel;Za pilou;Jeseník;790 01;;68;ANO
+170;Bílý beránek;hotel;náměstí Míru;Heřmanův Městec;538 03;*;12;NE
+171;Bílý hořec;penzion;;Horní Lánov;543 41;;20;ANO
+172;Bílý koníček;hotel;Masarykovo náměstí;Třeboň;379 01;***;25;ANO
+173;Bílý kříž;hotel;Krále Jiřího;Karlovy Vary;360 01;***;24;ANO
+174;Bílý kůň;hotel;Žižkovo náměstí;Čáslav;286 01;**;45;NE
+175;Bílý lev - Praha;hotel;Cimburkova;Praha 3 - Žižkov;130 00;***;50;NE
+176;Bílý lev - Rokycany;hotel;Malé náměstí;Rokycany;337 01;***;81;NE
+177;Bílý lev - Žďár nad Sázavou;hotel;náměstí Republiky;Žďár nad Sázavou;591 01;**;80;NE
+178;Bílý vlk;hotel;Komenského;Strakonice;386 01;**;30;NE
+179;Biocel Soláň;hotel;;Velké Karlovice;756 06;***;120;NE
+180;Bistro Bystrouška;penzion;Sytno;Sytno;349 01;**;40;NE
+181;Blanice - Protivín;hotel;Blanická;Protivín;398 11;***;60;ANO
+182;Blanice - Vodňany;hotel;Budějovická;Vodňany;389 01;*;25;ANO
+183;Blanka - Klentnice;hotel;Klentnice;Klentnice;692 01;**;24;ANO
+184;Blanka - Železná Ruda;penzion;Belvederská;Železná Ruda;340 04;;10;NE
+185;Blatná;penzion;U Sladovny;Blatná;388 01;;11;NE
+186;Bludička;penzion;Mařákova;Litomyšl;570 01;***;13;NE
+187;Bo-Va;penzion;Maxov;Maxov;471 52;**;200;NE
+188;Bobík;hotel;Náměstí;Volary;384 51;**;38;NE
+189;Bobrava;motel;;Modřice;664 42;***;96;NE
+190;Bobřík;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;**;140;NE
+191;Boby centrum;hotel;Sportovní;Brno;602 00;****;280;NE
+192;Bohmann;hotel;Babylon;Babylon;345 31;*;70;ANO
+193;Böhmerwald;penzion;U Řezné;Železná Ruda;340 04;***;70;ANO
+194;Bohumilka;hotel;Lázeňská;Lázně Bělohrad;507 81;;20;ANO
+195;Bomi;penzion;Mladoboleslavská;Mělník;276 01;***;47;NE
+196;Bon;penzion;Tanvald;Tanvald;468 41;;87;NE
+197;Bonaparte;penzion;Radlická;Praha 5 - Smíchov;150 00;***;25;ANO
+198;Bonato;hotel;Lázeňská;Náchod;547 01;***;42;NE
+199;Bonn;hotel;Rostislavova;Praha 4 - Nusle;140 00;***;48;NE
+200;Borováček;penzion;Borová Lada;Borová Lada;384 92;**;22;ANO
+201;Boršičanka;hotel;U Stromovky;Havířov;736 01;***;32;NE
+202;Borůvka;penzion;Wolkerova;Kraslice;358 01;;8;NE
+203;Boubín;hotel;Špidrova;Vimperk;385 01;*;46;NE
+204;Bouček;hotel;Velké náměstí;Kroměříž;767 01;***;26;ANO
+205;Bouda;hotel;Česká Metuje;Česká Metuje;549 56;;40;NE
+206;Bouchalka - Cerhovice;hotel;Cerhovice;Cerhovice;267 61;**;46;NE
+207;Brandýský dvůr;hotel;Ivana Olbrachta;Brandýs nad Labem;250 01;****;67;ANO
+208;Braník;hotel;Pikovická;Praha 4 - Braník;147 00;***;62;ANO
+209;Branná;soukro;Branná;Branná;788 25;;50;NE
+210;Brano;penzion;Malá Morávka;Malá Morávka;793 36;*;85;NE
+211;Centrální Lázně;hotel;Goethovo náměstí;Mariánské Lázně;353 01;**;134;NE
+212;Centrum - České Budějovice;penzion;Na Mlýnské stoce;České Budějovice;370 01;;10;NE
+213;Centrum - Františkovy Lázně;hotel;Anglická;Františkovy Lázně;351 01;***;56;ANO
+214;Centrum - Frýdek-Místek;hotel;Na Poříčí;Frýdek-Místek;738 01;****;222;NE
+215;Centrum - Kutná Hora;penzion;Jakubská;Kutná Hora;284 01;***;12;NE
+216;Centrum - Trhové Sviny;penzion;Žižkovo náměstí;Trhové Sviny;374 01;*;10;NE
+217;Cerhovice;hotel;Cerhovice;Cerhovice;267 61;;12;NE
+218;Cikáda;hotel;Nad Pomníkem;Praha 5 - Hlubočepy;152 00;***;26;ANO
+219;Cikánek Jiří;penzion;Primátorská;Liberec 14;460 14;;4;NE
+220;Cimbura;hotel;;Bouzov;783 25;***;32;NE
+221;Cimex;penzion;Na Pankráci;Praha 4 - Nusle;140 00;***;110;NE
+222;Černý orel - Strážnice;hotel;Veselská;Strážnice;696 62;***;45;NE
+223;Černý orel - Telč;hotel;náměstí Zachariáše z Hradce;Telč;588 56;**;60;ANO
+224;Černý rytíř;penzion;Oblouková;Žatec;438 01;;6;NE
+225;Černý Vladimír;penzion;Bedřichov;Bedřichov;468 12;;4;NE
+226;Černý vlk;penzion;Kvilda;Kvilda;384 93;**;32;NE
+227;Čertice;penzion;;Pec pod Sněžkou;542 21;;30;NE
+228;Čertova chata;hotel;Špičák;Špičák;340 04;***;50;NE
+229;Čertovina;motel;Čertovina;Čertovina;539 01;**;25;ANO
+230;Čertovy skály;motel;Lidečko;Lidečko;756 12;;42;NE
+231;Čertův Mlýn;penzion;Železná Ruda;Železná Ruda;340 04;***;55;ANO
+232;Červená Lhota;hotel;Červená Lhota;Červená Lhota;378 21;;35;NE
+233;Červenohorské Sedlo;hotel;;Domašov;790 85;***;178;NE
+234;Červený Mlýn - Červená Řečice;penzion;Červený Mlýn;Červená Řečice;394 46;;32;NE
+235;Červený Mlýn - Rakovník;penzion;Rakovník;Rakovník;269 01;***;12;NE
+236;Červený zámek;hotel;Městečko;Hradec nad Moravicí;747 41;;39;NE
+237;Červinková Jana;penzion;U Židovského hřbitova;Rychnov nad Kněžnou;516 01;***;10;NE
+238;Česká Beseda;hotel;Na rybníčku;Liberec;460 01;**;75;ANO
+239;Česká hospoda;hotel;Karlovarská;Tuchlovice;273 02;***;96;NE
+240;Česká chalupa - Dolní Dvůr;penzion;Dolní Dvůr;Dolní Dvůr;543 42;;33;NE
+241;Česká Kanada;penzion;náměstí Míru;Nová Bystřice;378 33;;19;ANO
+242;Česká koruna - Děčín;hotel;Masarykovo náměstí;Děčín;405 01;***;95;NE
+243;Česká Koruna - Světlá nad Sázavou;hotel;Nádražní;Světlá nad Sázavou;582 91;;29;ANO
+244;České Žleby;penzion;České Žleby;České Žleby;384 44;**;11;NE
+245;Český Dům - Chomutov;hotel;Lipská;Chomutov;430 03;***;37;NE
+246;Český Dvůr - Beroun;hotel;Husovo náměstí;Beroun 1;266 01;**;19;ANO
+247;Český Dvůr - Nová Ves;penzion;Nová Ves;Nová Ves;257 02;***;10;NE
+248;Český Dvůr - Závišín;hotel;Závišín;Závišín;353 01;;20;ANO
+249;Český kras;hotel;Vinařice;Vinařice;267 22;;45;NE
+250;Český lev - Libouchec;hotel;Teplická;Libouchec;403 35;*;18;ANO
+251;Český lev - Neštěmice;hotel;Sibiřská;Neštěmice;403 01;;136;NE
+252;Český ráj - Kněžnice;penzion;Kněžnice;Kněžnice;506 01;;15;NE
+253;Čihák - Klenovice;penzion;Klenovice;Klenovice;262 34;;18;ANO
+254;Čížkovec;penzion;Chlum;Chlum;382 03;**;10;NE
+255;ČSAD;hotel;náměstí K. V. Raise;Lázně Bělohrad;507 81;**;62;ANO
+256;Čtyřlístek - Teplice nad Metují;penzion;Nerudova;Teplice nad Metují;549 57;;25;ANO
+257;Čubernice;motel;Plumlovská přehrada;Plumlov;798 02;**;40;NE
+258;D;penzion;Vikýřovická;Šumperk;787 01;;14;NE
+259;Dafi;penzion;Ještědská;Liberec 19;460 01;;6;NE
+260;Dagmar-Dášenka;hotel;Palackého;Jáchymov;362 51;;52;ANO
+261;Dagmar - Letohrad;penzion;Divadelní;Letohrad;561 51;***;16;ANO
+262;Dachova;hotel;Dachova;Hořice;508 01;*;26;ANO
+263;Dalibor - Jáchymov;hotel;Lidická;Jáchymov;362 51;;47;NE
+264;Dalibor - Litomyšl;hotel;Komenského náměstí;Litomyšl;570 01;***;120;NE
+265;Dalimil;hotel;Prokopovo náměstí;Praha 3 - Žižkov;130 00;***;140;NE
+266;Dalmo;penzion;Malá;Sedlec-Prčice;257 92;***;27;ANO
+267;Daniela - Frýdlant;motel;Fügnerova;Frýdlant;464 01;;10;NE
+268;Daniela - Pusté Žibřidovice;hotel;Pusté Žibřidovice;Pusté Žibřidovice;788 23;**;170;NE
+269;Darebníková;soukro;náměstí Osvobození;Staré Město;788 32;;13;NE
+270;Dares;hotel;Revoluční;Bučovice;685 01;***;47;NE
+271;Darkov;hotel;Lázeňská;Karviná;735 03;;24;ANO
+272;Darkov - společenský dům;hotel;Lázeňský park;Karviná;735 05;;10;NE
+273;Dáša;penzion;Bílkova;Tábor;390 01;***;20;ANO
+274;Days;hotel;21. dubna;Lednice;691 44;***;103;NE
+275;De Saxe;hotel;Masarykova;Teplice;415 01;***;63;ANO
+276;Dejmon;penzion;Čeladná;Čeladná;739 12;;40;NE
+277;Denisa;hotel;Národní obrany;Praha 6 - Bubeneč;160 00;**;58;ANO
+278;Depandance Panorama;hotel;;Pustevny;756 57;**;30;NE
+279;Dersiebův mlýn;penzion;Manětín;Manětín;331 62;***;14;NE
+280;Desná;penzion;;Kouty nad Desnou;788 12;**;71;ANO
+281;Desta - Lojzova Paseka;hotel;;Lojzova Paseka;382 79;;75;ANO
+282;Devět Křížů;motel;;Domašov;664 83;**;40;NE
+283;Devět skal;hotel;;Milovy;592 03;***;241;NE
+284;Deza;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;**;20;ANO
+285;Diamant;penzion;Tyršova;Karlovy Vary;360 01;**;16;ANO
+286;Diamo;hotel;Máchova;Stráž pod Ralskem;471 27;**;400;ANO
+287;Diana - Bělá pod Bezdězem;penzion;Jenečská;Bělá pod Bezdězem;294 21;**;9;NE
+288;Diana - Jablonec nad Nisou;hotel;třída 5. května;Jablonec nad Nisou;466 01;***;49;NE
+289;Diana - Kouty nad Desnou;soukro;;Kouty nad Desnou;788 12;;38;NE
+290;Diana - Nový Jáchymov;penzion;Nový Jáchymov;Nový Jáchymov;267 03;**;50;NE
+291;Diana - Plzeň;penzion;Budilova;Plzeň;300 00;**;32;NE
+292;Diana - Praha;hotel;Hůrská;Praha 9 - Kyje;198 00;***;32;NE
+293;Diana - Samšina;penzion;Blata;Samšina;507 41;**;45;NE
+294;Diana - Třemošná;hotel;Třemošná;Třemošná;330 11;***;54;ANO
+295;Diana - Velké Losiny;hotel;Velké Losiny;Velké Losiny;788 15;***;109;NE
+296;Diana - Železná Ruda;penzion;Pancířská;Železná Ruda;340 04;***;40;NE
+297;Dina;penzion;Hraničná;Hraničná;468 11;;42;NE
+298;Diplomat;hotel;Evropská;Praha 6 - Dejvice;160 00;****;762;ANO
+299;Dita;penzion;Bučnice;Bučnice;549 57;****;22;ANO
+300;Dix;hotel;Železná Ruda;Železná Ruda;340 04;**;40;NE
+301;Dlouhá;penzion;Dlouhá;Praha 1 - Staré Město;110 00;*;90;NE
+302;Dlouhá Louka;motel;Stromovka;České Budějovice;370 01;***;100;NE
+303;Dlouhé stráně;hotel;;Loučná nad Desnou;788 12;***;700;ANO
+304;Dlouhý;hotel;Ždírec;Ždírec nad Doubravou;582 63;;80;NE
+305;Dobřany;soukro;Sportovců;Dobřany;334 41;**;43;NE
+306;Dobřív;soukro;Dobřív;Dobřív;338 44;;55;ANO
+307;Doctor;penzion;Choustníkovo Hradiště;Choustníkovo Hradiště;544 42;**;26;ANO
+308;Dolce Vita;motel;Oblanov;Trutnov;541 01;***;141;NE
+309;Doležal;penzion;Alešova;České Budějovice;370 01;;9;NE
+310;Dolní Rožínka;hotel;Dolní Rožínka;Dolní Rožínka;592 51;;20;ANO
+311;Dolte;penzion;Sobotín;Sobotín;788 16;;80;NE
+312;Excelent;hotel;Pivovarská;Rýmařov;795 01;***;35;NE
+313;Excellent;hotel;Líbeznická;Praha 8 - Kobylisy;180 00;***;23;ANO
+314;Excelsior - Mariánské Lázně;hotel;Hlavní;Mariánské Lázně;353 01;****;116;NE
+315;Expanze;hotel;Husova;Jaroměř;551 01;****;27;ANO
+316;Expo Garni;hotel;Za elektrárnou;Praha 7 - Výstaviště;170 00;***;202;NE
+317;Fáfa;penzion;Svatá Kateřina;Svatá Kateřina;347 01;*;30;NE
+318;Falko;penzion;Rooseveltova;Český Krumlov;381 01;;17;ANO
+319;Fam;penzion;Veleslavínova;Olomouc;772 00;***;12;NE
+320;Family - Domažlice;penzion;Školní;Domažlice;344 01;***;10;NE
+321;Family - Neratovice;hotel;Vojtěšská;Neratovice;277 11;***;12;NE
+322;Fanda;hotel;;Brčálník;340 06;**;150;NE
+323;Fania;penzion;Albrechtice v Jizerských ho;Albrechtice v Jizerských hor;468 43;;31;NE
+324;Fara;hotel;Zátoň;Zátoň;382 11;***;59;ANO
+325;Fára;penzion;Tylova;Pelhřimov;393 01;**;15;NE
+326;Farmer;penzion;Lesní;Doksy;472 01;;21;ANO
+327;Faust;hotel;U plovárny;Děčín;405 01;**;52;ANO
+328;Felina;motel;Lučany nad Nisou;Lučany nad Nisou;468 71;;25;ANO
+329;Ferda;penzion;Ferdinandov;Ferdinandov;463 62;;33;NE
+330;Ferdinand;penzion;;Soběšovice;739 22;;36;NE
+331;Fiala;penzion;Srby;Srby;273 02;***;40;NE
+332;Figura;hotel;Ovčárna-Praděd;Karlova Studánka;793 24;***;70;ANO
+333;Gas;penzion;Komenského náměstí;Říčany;251 01;**;41;NE
+334;Gaudeamus;hotel;Milovy;Milovy;592 03;;46;NE
+335;Gejzír;hotel;Slovenská;Karlovy Vary;360 21;***;54;ANO
+336;Gejzírpark Pupp;motel;Slovenská;Karlovy Vary;360 68;**;132;NE
+337;Gemo;hotel;Pavelčákova;Olomouc;772 00;***;70;ANO
+338;Genessis;hotel;V aleji;Konstantinovy Lázně;349 52;***;30;NE
+339;Gentiána;penzion;Desná;Desná;468 61;**;19;ANO
+340;Gerta;penzion;Středová;Český Krumlov;381 01;;10;NE
+341;Hanesův mlýn;penzion;Štoky;Štoky;582 53;;42;NE
+342;Hanička;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;***;58;ANO
+343;Hanka - Horní Lipová;penzion;Horní Lipová;Horní Lipová;790 63;;31;NE
+344;Hansa;hotel;Langrova;Šumperk;787 01;;22;ANO
+345;Harlekin;hotel;;Lednice;691 44;***;100;NE
+346;Harlekin - Vejprty;hotel;Pivovarská;Vejprty;431 91;***;25;ANO
+347;Harmonia;hotel;Lánov;Lánov;543 41;****;58;ANO
+348;Harmonie;hotel;Švábov;Batelov;588 51;***;72;ANO
+349;Harmony - Ostrava;hotel;28. října;Ostrava - Mariánské Hory;709 00;***;226;NE
+350;Harmony - Pardubice;hotel;Bělehradská;Pardubice;530 09;***;60;ANO
+351;Harmony - Praha;hotel;Na Poříčí;Praha 1 - Nové Město;110 00;***;120;NE
+352;Harmony - Špindlerův Mlýn;hotel;Bedřichov;Bedřichov;543 51;****;213;NE
+353;Harrachovka;hotel;Harrachov;Harrachov;512 46;***;87;NE
+354;Hasa;hotel;Sámova;Praha 10 - Vršovice;100 00;**;42;NE
+355;Haškovcova Lhota;penzion;Haškovcova Lhota;Haškovcova Lhota;391 65;***;16;ANO
+356;Havel;hotel;Staré náměstí;Rychnov nad Kněžnou;516 01;***;75;ANO
+357;Havelka;penzion;Mikulášské náměstí;Znojmo;669 02;***;4;NE
+358;Hedvika;penzion;Plzeňská;Zbůch;330 22;;8;NE
+359;Chalupa Na Pavlově;penzion;Benešov;Benešov;679 53;;13;NE
+360;Chanos;penzion;Havlíčkova;Stříbro;349 01;*;38;NE
+361;Charlie - Konecchlumí;motel;;Konecchlumí;507 05;;50;NE
+362;Chata Šumava;hotel;Tolarova;Volary;384 51;;36;NE
+363;Cherry;hotel;Přehrada;Horní Bečva;756 57;**;117;NE
+364;China;penzion;Husovo náměstí;Prostějov;796 01;;13;NE
+365;Chiranka;penzion;Lipová-lázně;Lipová-lázně;790 61;*;40;NE
+366;Chlumová Hana;penzion;V rokli;Liberec 32;460 01;;8;NE
+367;Chmelový keř;hotel;Čs. armády;Hostivice;253 01;**;55;ANO
+368;Chodov - Praha 4 - hotel;hotel;Mírového hnutí;Praha 4 - Chodov;149 00;***;70;ANO
+369;Chodov - Praha 4 - penzion;penzion;Květnového vítězství;Praha 4 - Chodov;149 00;***;47;NE
+370;Chotol;hotel;K Chotolu;Horoměřice;252 62;***;200;NE
+371;Chroust Pavel;penzion;Příčná;Raspenava;463 61;;4;NE
+372;Churáňov;hotel;Zadov;Zadov;384 73;***;110;NE
+373;Chvojenec;motel;E;Chvojenec;534 01;;25;ANO
+374;Jaro;hotel;17. listopadu;Mělník;276 01;;24;ANO
+375;Jas - Praha;hotel;Sídlištní;Praha 6 - Lysolaje;165 00;***;40;NE
+376;Jasmín - Praha;hotel;Skloněná;Praha 9 - Vysočany;190 00;***;144;NE
+377;Jasmín - Vítkovice;hotel;U křížku;Vítkovice;512 38;***;80;NE
+378;Javor - Dolní Malá Úpa;hotel;Dolní Malá Úpa;Dolní Malá Úpa;542 27;***;71;ANO
+379;Javorník;hotel;Javorník;Javorník;384 73;**;110;NE
+380;Javoří Mlýn;penzion;Velká Lípa;Velká Lípa;542 22;;48;NE
+381;Javořice;penzion;Lhotka;Lhotka;588 56;;9;NE
+382;Javořina;penzion;Hradišťská;Uherský Brod;688 01;;12;NE
+383;Jednota;hotel;náměstí T. G. Masaryka;Moravský Krumlov;672 01;**;60;ANO
+384;Jelen - Benešov nad Ploučnicí;hotel;náměstí Míru;Benešov nad Ploučnicí;407 22;**;44;NE
+385;Jelen - Fulnek;hotel;Komenského náměstí;Fulnek;742 45;*;30;NE
+386;Jelen - Karviná;hotel;Zámecká;Karviná;735 06;**;12;NE
+387;Jelení boudy;penzion;Špindlerův Mlýn;Špindlerův Mlýn;543 51;**;58;ANO
+388;Jelenice;hotel;Rakovecká;Brno - Bystrc;635 00;***;64;ANO
+389;Jelínek;hotel;Masarykovo náměstí;Velká Bíteš;595 01;*;30;NE
+390;Jenišov;hotel;Jenišov;Jenišov;382 26;**;80;NE
+391;Jeřábek;hotel;Primátorská;Praha 8 - Libeň;180 00;***;56;ANO
+392;Jesenice;penzion;;Jesenice;270 33;;77;ANO
+393;Jessenius sanatorium;hotel;Stará louka;Karlovy Vary;360 90;***;133;NE
+394;Jestřabec;motel;Velké Meziříčí;Velké Meziříčí;594 01;***;35;NE
+395;Jestřábí - Jestřábí;hotel;Jestřabí;Jestřabí;382 23;***;174;NE
+396;Jestřabí - Luhačovice;penzion;L. Janáčka;Luhačovice;763 26;;54;ANO
+397;Ještěd;hotel;Horní Hanychov;Liberec 8;460 01;;70;ANO
+398;Ještědka;hotel;Sedlo pod Ještědem;Liberec 8;460 08;;16;ANO
+399;Jezerka;penzion;Špičák;Špičák;340 04;;60;ANO
+400;Ježek;penzion;Telečská;Jihlava;586 01;;136;NE
+401;Ježov;motel;Na Ježově;Senohraby;251 66;;42;NE
+402;Jihlava;hotel;Okružní;Jihlava;586 01;***;130;NE
+403;Jihlavan;hotel;Dolní Hutě;Dolní Hutě;588 61;;54;ANO
+404;Jilemnická bouda;penzion;Horní Mísečky;Horní Mísečky;543 31;**;43;NE
+405;Jindřich;hotel;Nádražní;Ostrava;701 01;**;120;NE
+406;Jindřich na rybárně;hotel;Českoskalická;Náchod;547 01;**;14;NE
+407;Jirmásek;hotel;Dolní náměstí;Humpolec;396 01;***;30;NE
+408;Jiří Šlosar;penzion;náměstí Republiky;Kladruby;349 61;*;24;ANO
+409;Jiřička;hotel;Žerotínova;Brandýs nad Orlicí;561 12;**;30;NE
+410;Jiřího na Šeráku;hotel;Ramzová;Ramzová;788 26;;92;NE
+411;Jiskra - Karlovy Vary;hotel;Mariánskolázeňská;Karlovy Vary;360 01;***;21;ANO
+412;Jiskra - Špindlerův Mlýn;hotel;Okružní;Špindlerův Mlýn;543 51;*;60;ANO
+413;Jitka - Jestřabí;penzion;Jestřabí;Jestřabí;382 23;**;24;ANO
+414;Jitřenka - Jáchymov;hotel;Lidická;Jáchymov;362 51;;22;ANO
+415;Jitřenka - Konstantinovy Lázně;hotel;Lázeňská;Konstantinovy Lázně;349 52;*;60;ANO
+416;Jívka;penzion;Jívka;Jívka;542 13;**;92;NE
+417;Jízdárna;penzion;Morávka;Morávka;739 05;**;23;ANO
+418;Jizera - Jizerní Vtelno;penzion;Jizerní Vtelno;Jizerní Vtelno;294 41;**;18;ANO
+419;Jizerka;hotel;Lázně Libverda;Lázně Libverda;463 64;**;55;ANO
+420;Jizerská chata;penzion;Rudolfov;Rudolfov;460 17;**;22;ANO
+421;Jižní Dvůr;penzion;Pištín;Pištín;373 46;;19;ANO
+422;Johanka;hotel;Háj;Háj;431 91;*;34;NE
+423;Jordán;penzion;Podivínská;Lednice;691 44;***;32;NE
+424;Jordánek;hotel;Nádražní;Opočno;517 73;***;35;NE
+425;Josef - Albrechtice v Jiz. horách;penzion;;Albrechtice v Jizerských hor;468 43;;17;ANO
+426;Josef - Františkovy Lázně;penzion;Americká;Františkovy Lázně;351 01;***;16;ANO
+427;Josefinum;penzion;Nová Ves;Nová Ves;348 06;*;65;ANO
+428;Josefova bouda;penzion;Špindlerův Mlýn;Špindlerův Mlýn;543 51;**;19;ANO
+429;Jošt Petr - Liberec 19;penzion;Irkutská;Liberec 19;460 08;;4;NE
+430;Jošt Petr - Liberec 8;penzion;Spartakiádní;Liberec 8;460 08;;4;NE
+431;Julián;hotel;Elišky Peškové;Praha 5 - Smíchov;150 00;***;60;ANO
+432;Junior - Bzenec;hotel;náměstí Svobody;Bzenec;696 81;**;150;NE
+433;Junior - Poděbrady;hotel;Komenského;Poděbrady;290 01;***;103;NE
+434;Junior - Šumná;soukro;;Šumná;669 03;;60;ANO
+435;Karel IV.;hotel;Žižkova;Turnov;511 01;;70;ANO
+436;Karin;penzion;Ruská;Děčín;405 02;;8;NE
+437;Karina;penzion;Masarykova;Luhačovice;763 26;**;12;NE
+438;Karlova koruna;hotel;Zámek;Chlumec nad Cidlinou;503 51;**;25;ANO
+439;Kárník;hotel;Zelinářská;Znojmo;669 02;***;30;NE
+440;Karolín;penzion;Malšice;Malšice;391 75;**;12;NE
+441;Karolína - Kunčice pod Ondřejníkem;penzion;Kunčice pod Ondřejníkem;Kunčice pod Ondřejníkem;739 13;*;67;ANO
+442;Karolina - Lanškroun;penzion;Husova;Lanškroun;563 01;***;27;ANO
+443;Karosa;hotel;Dobrovského;Vysoké Mýto;566 01;;100;NE
+444;Karpaty;hotel;Slavkov;Slavkov;687 64;;12;NE
+445;Kašperk;hotel;Náměstí;Kašperské Hory;341 92;*;55;ANO
+446;Katka - Český Krumlov;penzion;Linecká;Český Krumlov;381 01;***;18;ANO
+447;Katka - Harrachov;penzion;Harrachov;Harrachov;512 46;**;24;ANO
+448;Kaťuša;penzion;Ramzová;Ramzová;788 26;;25;ANO
+449;Kavalérie;hotel;T. G. Masaryka;Karlovy Vary;360 01;***;24;ANO
+450;Kavalír - Jirkov;hotel;Chomutovská;Jirkov;431 13;***;52;ANO
+451;Kavalír - Praha;hotel;Plzeňská;Praha 5 - Košíře;150 00;***;100;NE
+452;Kavka;penzion;Malá Skála;Malá Skála;468 31;*;100;NE
+453;Keramik - Horní Bříza;hotel;Ke Kaolince;Horní Bříza;330 12;*;120;NE
+454;Keramik - Kryštofovo Údolí;penzion;Kryštofovo Údolí;Kryštofovo Údolí;460 01;;10;NE
+455;Kestřanka;hotel;Kestřany;Kestřany;398 21;;42;NE
+456;Kijev Balneosanatorium;hotel;Národní;Františkovy Lázně;351 01;**;113;NE
+457;Kilián;hotel;Loučovice;Loučovice;382 76;****;24;ANO
+458;Kinsky Garden;hotel;Holečkova;Praha 5 - Smíchov;150 00;****;120;NE
+459;Kladno;hotel;náměstí Sítná;Kladno;272 01;***;200;NE
+460;Klas;hotel;Náměstí;Měřín;594 42;***;64;ANO
+461;Klášter;penzion;Klášter;Klášter;378 33;**;13;NE
+462;Klášterní Dvůr;hotel;Bartolomějská;Praha 1 - Staré Město;110 00;***;60;ANO
+463;Klášterní Hospic;hotel;;Teplá;364 61;***;130;NE
+464;Klatovka;hotel;Bítovská;Vranov nad Dyjí;671 03;;400;ANO
+465;Klatovský dragoun;penzion;Balbínova;Klatovy;339 01;***;16;ANO
+466;Klenor;hotel;Ve studeném;Praha 4 - Braník;147 00;***;20;ANO
+467;Klika;penzion;Zátkovo nábřeží;České Budějovice;370 01;;10;NE
+468;Klíšský pension;penzion;Klíšská;Ústí nad Labem;400 01;;95;NE
+469;Klondike;penzion;Valtínov;Valtínov;378 62;**;20;ANO
+470;Klose;penzion;Kubova Huť;Kubova Huť;385 01;**;120;NE
+471;Kobylnice;penzion;Kobylnice;Kobylnice;382 79;***;60;ANO
+472;Kocourová Norma;penzion;Dlouhá;Liberec 25;463 12;;4;NE
+473;Kohout - Merklín;hotel;;Merklín;334 52;;10;NE
+474;Kohout - Nýrsko;penzion;Smetanova;Nýrsko;340 22;***;12;NE
+475;Kolářová Zdena;penzion;Otín;Otín;377 01;***;11;NE
+476;Koldům;hotel;PKH;Litvínov;436 01;***;110;NE
+477;Koliba - Krnov;penzion;Švabinského;Krnov 1;794 01;***;35;NE
+478;Koliba - Ludvíkov;hotel;Ludvíkov;Ludvíkov;793 26;**;52;ANO
+479;Koliba - Mariánské Lázně;hotel;Dusíkova;Mariánské Lázně;353 01;***;20;ANO
+480;Koliba pod horů;hotel;Dolní Bečva;Dolní Bečva;756 55;;11;NE
+481;Koliba U černého medvěda;penzion;Nad zimním stadionem;Zlín;760 01;;18;ANO
+482;Kolmanová Ludmila;penzion;Mládežnická;Dačice;380 01;;11;NE
+483;Komárov;hotel;Bratří Žůrků;Brno;602 00;*;420;ANO
+484;Komfort Žák;penzion;Purkyňova;Náchod;547 01;***;8;NE
+485;Komorník;hotel;Náměstí;Strmilov;378 53;**;45;NE
+486;Kondic;hotel;Pouchovská;Hradec Králové;500 03;*;26;ANO
+487;Konrád;penzion;Stříbrnice;Stříbrnice;788 32;;12;NE
+488;Konšel;hotel;Říčky v Orlických horách;Říčky v Orlických horách;517 62;***;44;NE
+489;Korado;hotel;Staré náměstí;Česká Třebová;560 02;****;37;NE
+490;Koral autoklub;soukro;U střelnice;Tišnov;666 01;;53;ANO
+491;Kormorán;penzion;Havlíčkovo nábřeží;Vranov nad Dyjí;671 03;;43;NE
+492;Koruna - Karlštejn;hotel;Karlštejn;Karlštejn;267 18;;40;NE
+493;Koruna - Opava;hotel;náměstí Republiky;Opava;746 01;***;155;NE
+494;Koruna - Postoloprty;hotel;Masarykova;Postoloprty;439 02;*;50;NE
+495;Koruna - Praha;hotel;Opatovická;Praha 1 - Nové Město;110 00;***;49;NE
+496;Koruna - Prachatice;hotel;Velké náměstí;Prachatice;383 01;***;46;NE
+497;Koruna - Rožnov pod Radhoštěm;hotel;Palackého;Rožnov pod Radhoštěm;756 61;**;30;NE
+498;Korunní princ;hotel;náměstí Českého ráje;Turnov;511 01;***;75;ANO
+499;Korzár transmotel;motel;Jiráskova;Soběslav;392 01;;60;ANO
+500;Kořínek;hotel;Příchovice;Příchovice;468 48;***;90;NE
+501;Kosanda;penzion;;Branná;788 25;;15;NE
+502;Kosmos - Karlovy Vary;penzion;Zahradní;Karlovy Vary;360 01;;80;NE
+503;Kosmos - Karviná;hotel;Žižkova;Karviná;734 01;;108;NE
+504;Kossuth;hotel;Ruská;Mariánské Lázně;353 01;*;371;ANO
+505;Kostínek;hotel;Solenice;Solenice;262 33;***;104;NE
+506;Kostnický dům;penzion;Střelnická;Tábor;390 01;;14;NE
+507;Košická ubytovna;soukro;Košická;Liberec 3;460 03;;120;NE
+508;Košik;hotel;Blažimská;Praha 4 - Chodov;140 00;***;1100;ANO
+509;Leopold;hotel;Račín;Račín;592 11;;45;NE
+510;Lesana;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;***;50;NE
+511;Lesanka - Klášterec nad Orlicí;hotel;Pastviny;Klášterec nad Orlicí;561 82;**;64;ANO
+512;Lesanka - Štědrákova Lhota;soukro;;Štědrákova Lhota;789 63;;50;NE
+513;Lesní dům;hotel;Krkonošská;Janské Lázně;542 25;**;67;ANO
+514;Lesní chata - Kořenov;penzion;Kořenov;Kořenov;468 49;*;71;ANO
+515;Lesní pramen;penzion;Pec pod Sněžkou;Pec pod Sněžkou;542 21;****;30;NE
+516;Lesní restaurace;hotel;Ferdinandov;Ferdinandov;463 62;**;18;ANO
+517;Lešná;penzion;Lešná;Lešná;756 41;;15;NE
+518;Libeň;hotel;Zenklova;Praha 8 - Libeň;180 00;*;100;NE
+519;Libenský;hotel;náměstí T. G. Masaryka;Poděbrady;290 01;***;194;NE
+520;Liberec;hotel;Šaldovo náměstí;Liberec;460 01;**;145;NE
+521;Liblice;hotel;Zámek;Liblice;277 32;;80;NE
+522;Libuš;hotel;Na domovině;Praha 4 - Libuš;142 00;**;125;NE
+523;Libuše - Poděbrady;hotel;Na valech;Poděbrady;290 01;***;66;ANO
+524;Libverda Inn;hotel;Lázně Libverda;Lázně Libverda;463 64;***;38;NE
+525;Lidový dům - Lysice;hotel;náměstí Osvobození;Lysice;679 71;***;80;NE
+526;Lila;motel;Roudná;Roudná;391 16;;10;NE
+527;Linda;penzion;Kaštanová;Velká Dobrá;273 61;;14;NE
+528;Line;hotel;Smetanova;Litvínov;436 01;**;28;ANO
+529;Lion;hotel;Žižkova;Mariánské Lázně;353 01;***;10;NE
+530;Lípa - Česká Lípa;hotel;28. října;Česká Lípa;470 06;**;310;ANO
+531;Lípa - Dobrovice;hotel;Palackého náměstí;Dobrovice;294 41;***;15;NE
+532;Lípa - Dolejší Těšov;penzion;Dolejší Těšov;Dolejší Těšov;341 81;*;40;NE
+533;Lípa - Konstantinovy Lázně;penzion;Plzeňská;Konstantinovy Lázně;349 52;*;56;ANO
+534;Lipka;penzion;Okna;Okna;471 62;;28;ANO
+535;Lipník;penzion;Lipník;Lipník;294 43;*;27;ANO
+536;Lipno;penzion;Sídliště;Lipno nad Vltavou;382 78;*;122;NE
+537;Lipovka;hotel;Nekmíř;Nekmíř;330 16;;32;NE
+538;Liptov - Ostravice;hotel;;Ostravice;739 14;*;63;ANO
+539;Lipůvka;penzion;Lipová-lázně;Lipová-lázně;790 61;;24;ANO
+540;Litava;hotel;náměstí Marie Poštové;Beroun 1;266 01;***;97;NE
+541;Litovel;hotel;Dr. Veselého;Luhačovice;763 26;;44;NE
+542;LM;penzion;Humna;Kladno;272 01;**;17;ANO
+543;Lobo;penzion;Latrán;Český Krumlov;381 01;***;12;NE
+544;Lomnice;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;**;31;NE
+545;Loreta;penzion;Holubyho;Luhačovice;763 26;****;30;NE
+546;Loučná;penzion;;Loučná nad Desnou;788 11;;31;NE
+547;Lovochemie;hotel;Vrchlického;Litoměřice;412 01;**;126;NE
+548;Lubina motorest;motel;Lubina;Lubina;742 21;***;8;NE
+549;Lucie - Hlučín;penzion;Bochenkova;Hlučín;748 01;;6;NE
+550;Ludmila - Rakovník;penzion;Pod Jamkou;Rakovník;269 01;;6;NE
+551;Lukyn;hotel;Ďáblická;Praha 8 - Ďáblice;180 00;**;25;ANO
+552;Luna - Blansko;hotel;Masarykova;Blansko;678 01;***;11;NE
+553;Malta;hotel;I. P. Pavlova;Karlovy Vary;366 01;***;40;NE
+554;Malý pivovar;hotel;Karla IV.;České Budějovice;370 01;****;60;ANO
+555;Mánes - Brno;penzion;Mánesova;Brno;612 00;**;260;NE
+556;Mánes - Čechy pod Kosířem;penzion;Čechy pod Kosířem;Čechy pod Kosířem;798 58;***;30;NE
+557;Mánes - Karlovy Vary;hotel;Křižíkova;Karlovy Vary;360 01;**;210;NE
+558;Mánes - Svratka;hotel;Čs. armády;Svratka;592 02;**;60;ANO
+559;Maria Tour;hotel;Přívozská;Ostrava;702 00;**;40;NE
+560;Marie - Beroun;penzion;Hostímská;Beroun;266 01;;16;ANO
+561;Marie - Libouchec;penzion;Teplická;Libouchec;403 35;*;14;NE
+562;Marie - Mohelno;penzion;Mohelno;Mohelno;675 75;**;12;NE
+563;Marie - Olomouc;penzion;Bořivojova;Olomouc;772 00;;8;NE
+564;Marin;penzion;Jižní;Borovany;373 12;;3;NE
+565;Mario;hotel;21. dubna;Lednice;691 44;***;20;ANO
+566;Marion - Cheb;motel;Plzeňská;Cheb;354 01;***;45;NE
+567;Merkur - Praha;hotel;Těšnov;Praha 1 - Nové Město;110 00;***;140;NE
+568;Měřín;motel;Dálnice D1;Měřín;594 42;;32;NE
+569;Modus;penzion;U Norkárny;Česká Ves;790 81;;8;NE
+570;Moldavka;hotel;;Moldava;417 81;**;50;NE
+571;Monaco;hotel;Husova;Náměšť nad Oslavou;675 71;***;42;NE
+572;Monica;hotel;Vlnitá;Praha 4 - Braník;147 00;***;50;NE
+573;Monika - Česká Lípa;penzion;Jiráskova;Česká Lípa;470 01;**;29;ANO
+574;Montana;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;****;120;NE
+575;Monti;hotel;Střední;Brno;602 00;**;120;NE
+576;Monti Thermae;hotel;Kollárova;Františkovy Lázně;351 01;****;93;NE
+577;Monty;hotel;Příkrá;Mariánské Lázně;353 01;***;248;NE
+578;Morava - Blansko;hotel;Husova;Blansko;678 01;***;160;NE
+579;Morava - Dolní Dvůr;hotel;Dolní Dvůr;Dolní Dvůr;543 42;**;65;ANO
+580;Morava - Dolní Morava;hotel;Dolní Morava;Dolní Morava;561 69;;50;NE
+581;Morava - Luhačovice;hotel;Zatloukalova;Luhačovice;763 26;***;181;NE
+582;Morava - Mohelnice;motel;Bezručova;Mohelnice;789 85;;58;ANO
+583;Morava - Uherské Hradiště;hotel;Šafaříkova;Uherské Hradiště;686 01;*;84;NE
+584;Morava - Žďár nad Sázavou;hotel;Horní;Žďár nad Sázavou;591 01;;137;NE
+585;Moravan;penzion;Americká;Šumperk;787 01;**;60;ANO
+586;Moravská vinárna;penzion;U Rybníčku;Staré Splavy;471 63;*;36;NE
+587;Morgenstern;penzion;Chotyně;Chotyně;463 33;***;6;NE
+588;Morrison;penzion;Thámova;Plzeň;320 25;***;22;ANO
+589;Motorest - Chraštice;motel;;Chraštice;262 83;****;18;ANO
+590;Motorest Mikulov;motel;K Vápence;Mikulov;692 01;;42;NE
+591;Mottlová Ilona;penzion;Alešova;České Budějovice;370 01;;4;NE
+592;Mövenpick;hotel;Mozartova;Praha 5 - Smíchov;150 00;****;435;ANO
+593;Mozolov;hotel;;Mozolov;398 52;**;240;NE
+594;Mraveniště;soukro;;Valašská Bystřice;756 27;;100;NE
+595;Muflon;penzion;Smolov;Smolov;345 25;;24;ANO
+596;Murom;hotel;náměstí VMS;Most;434 01;***;318;ANO
+597;Myra;penzion;Bezručova;Jindřichův Hradec;377 01;***;9;NE
+598;Myslivna - Brno;hotel;Nad Pisárkami;Brno;623 00;****;237;NE
+599;Myslivna - Kokořín;penzion;Kokořín;Kokořín;277 23;***;23;ANO
+600;Myslivna - Luhačovice;penzion;Lázeňské náměstí;Luhačovice;763 26;;19;ANO
+601;Myslivna - Nedvědice;hotel;Nedvědice;Nedvědice;592 62;**;114;NE
+602;Mýto;motel;Mýto;Mýto;338 05;**;60;ANO
+603;Na pastvinách - Nová Ves;hotel;Nová Ves;Nová Ves;348 06;**;55;ANO
+604;Na pastvinách - Stráž;penzion;Stráž;Stráž;348 05;*;10;NE
+605;Na Pešti;penzion;Žadlovice;Loštice;789 83;**;4;NE
+606;Na pile;hotel;;Sedlice;387 32;;60;ANO
+607;Na pláži;hotel;Lázeňský vrch;Staré Splavy;471 63;**;36;NE
+608;Na růžku - Mořina;penzion;Mořina;Mořina;267 17;***;13;NE
+609;Na schodech;penzion;Vilémovská;Mikulášovice;407 79;;23;ANO
+610;Na soutoku;penzion;třída ČSA;Veselí nad Lužnicí;391 81;;20;ANO
+611;Na splávku;penzion;Domamyslická;Prostějov;796 01;;14;NE
+612;Na stráži;hotel;Hojsova Stráž;Hojsova Stráž;340 06;**;46;NE
+613;Na Stříbrném potoce;hotel;Stříbrná;Stříbrná;357 21;;70;ANO
+614;Na Trojáku;hotel;Na Trojáku;Rajnochovice;768 71;;64;ANO
+615;Na Vavřinečku;hotel;Vavřinec;Domažlice;344 01;*;95;NE
+616;Na Vlachovce;penzion;Zenklova;Praha 8 - Kobylisy;180 00;***;85;NE
+617;Na vyhlídce - Frýdlant nad Ostravicí;penzion;Sokolovská;Frýdlant nad Ostravicí;739 11;;12;NE
+618;Na vyhlídce - Kořenov;hotel;;Kořenov;468 49;***;41;NE
+619;Na výsluní - Nové Sedlo;penzion;;Nové Sedlo;357 34;***;22;ANO
+620;Na výsluní - Rožnov pod Radhoštěm;penzion;Lesní;Rožnov pod Radhoštěm;756 61;**;123;NE
+621;Na výsluní - Špindlerův Mlýn;penzion;Špindlerův Mlýn;Špindlerův Mlýn;543 51;**;45;NE
+622;Na zámečku;hotel;Záběhlická;Praha 10 - Záběhlice;106 00;****;100;NE
+623;Na zámku;hotel;Bartošovice;Bartošovice;742 54;;51;ANO
+624;Na zastávce;motel;;Veselí nad Lužnicí;391 81;;18;ANO
+625;Nádraží;hotel;Nádražní;Mělník;276 01;**;30;NE
+626;Najdek;penzion;;Hamry nad Sázavou;591 01;;24;ANO
+627;Nancy Muller;penzion;Údolí Nancy;Stříbrná;357 21;***;14;NE
+628;Narex;penzion;Moskevská;Česká Lípa;470 01;;26;ANO
+629;Národní dům - Olomouc;hotel;8. května;Olomouc;772 00;***;100;NE
+630;Národní dům - Staré Město;penzion;náměstí Osvoboditelů;Staré Město;788 32;;43;NE
+631;Nautilus - Chodov;hotel;Poděbradova;Chodov;357 35;***;50;NE
+632;Nautilus - Náměšť nad Oslavou;penzion;přehrada Vícenický Žleb;Náměšť nad Oslavou;675 71;;24;ANO
+633;Naveta;penzion;Dolní Bukovina;Dolní Bukovina;294 15;*;89;NE
+634;Naviga;motel;Nůšařská;Mělník;276 01;;25;ANO
+635;Neapol - Karlovy Vary;hotel;Mariánskolázeňská;Karlovy Vary;360 01;***;24;ANO
+636;Neapol - Mariánské Lázně;hotel;Goethovo náměstí;Mariánské Lázně;353 43;;64;ANO
+637;Palcát;hotel;9. května;Tábor;390 01;***;120;NE
+638;Palma - Praha;hotel;Turnovská;Praha 8 - Libeň;180 00;**;52;ANO
+639;Palma - Rajhrad;penzion;Masarykova;Rajhrad;664 41;;10;NE
+640;Palme;penzion;Rytířská;Liberec 33;460 01;;6;NE
+641;PAM;hotel;Nové Město;Nové Město;362 51;**;80;NE
+642;Pančava;hotel;Svárov;Vsetín;755 01;**;30;NE
+643;Panenka;penzion;Srní;Srní;341 94;***;20;ANO
+644;Pangea;hotel;Na Baště;Telč;588 56;****;20;ANO
+645;Panon;hotel;Koupelní;Hodonín;695 22;***;187;NE
+646;Panorama - Jáchymov;hotel;Dvořákova;Jáchymov;362 51;***;26;ANO
+647;Panorama - Janovičky u Broumova;penzion;;Janovičky;550 01;***;35;NE
+648;Panorama - Mikulov;penzion;Hliniště;Mikulov;692 01;**;40;NE
+649;Panorama - Morávka;hotel;;Morávka;739 05;;90;NE
+650;Panorama - Obůrka;hotel;Obůrka;Obůrka;678 01;***;87;NE
+651;Panorama - Ostrov;penzion;Ostrov;Ostrov;403 37;;38;NE
+652;Panorama - Plzeň;hotel;V lomech;Plzeň;323 17;****;46;NE
+653;Panorama - Špindlerův Mlýn;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;**;23;ANO
+654;Panorama - Teplice;hotel;Pod Doubravkou;Teplice;415 01;**;350;ANO
+655;Panská;hotel;Masarykovo náměstí;Bechyně;391 65;;31;NE
+656;Panská hospoda;hotel;Týnec;Týnec;340 21;;53;ANO
+657;Panský dům - Blovice;hotel;T. G. Masaryka;Blovice;336 01;*;32;NE
+658;Panský Dům - Nové Město;hotel;Vratislavovo náměstí;Nové Město na Moravě;592 31;*;28;ANO
+659;Panský dům - Vříšť;penzion;Vříšť;Vříšť;592 03;;26;ANO
+660;Panský dům - Vyšší Brod;hotel;náměstí Míru;Vyšší Brod;382 73;*;70;ANO
+661;Panský Dvůr;hotel;Masarykovo náměstí;Žamberk;564 01;**;88;NE
+662;Panther;penzion;Vřídelní;Karlovy Vary;360 01;***;16;ANO
+663;Papilio;motel;Pražská;Chomutov;430 01;***;28;ANO
+664;Paprsek;hotel;;Staré Město;788 32;;39;NE
+665;Paradies - Modřice;penzion;Hřbitovní;Modřice;664 42;;11;NE
+666;Petra - Vaňov;penzion;Pražská;Vaňov;400 01;;17;ANO
+667;Petra Voka;motel;Holičky;Holičky;379 01;***;60;ANO
+668;Pfleger;penzion;Markvartice;Markvartice;471 25;***;12;NE
+669;Piast;hotel;Nádražní;Český Těšín;737 01;**;75;ANO
+670;Pichlův dům;penzion;náměstí T. G. Masaryka;Bechyně;391 65;**;10;NE
+671;Pikola;penzion;Mariánské náměstí;Uherský Brod;688 01;;11;NE
+672;Piňosová;penzion;Hlavní náměstí;Plumlov;798 03;;18;ANO
+673;Pístina;penzion;Pístina;Pístina;378 02;**;58;ANO
+674;Pleas;soukro;Bělohradská;Havlíčkův Brod;580 01;;100;NE
+675;Pleštil;penzion;J. Švermy;Liberec 10;460 10;;8;NE
+676;Plumlov;hotel;Hlavní náměstí;Plumlov;798 03;*;14;NE
+677;Pod hradem - Nedvědice;penzion;Nedvědice;Nedvědice;592 62;;12;NE
+678;Pod hradem - Žampach;penzion;Žampach;Žampach;561 70;**;23;ANO
+679;Pod javorem;hotel;;Velké Karlovice;756 06;;50;NE
+680;Pod kapličkou;penzion;Malá Morávka;Malá Morávka;793 36;;32;NE
+681;Pod kaštany;hotel;Štěpnická;Telč;588 56;**;72;ANO
+682;Pod kostelem - Hodkovice;penzion;Růžová;Hodkovice nad Mohelkou;463 92;**;29;ANO
+683;Pod lanovkou - Bratrství;penzion;;Jáchymov;362 51;**;44;NE
+684;Pod lesem;soukro;Komenského;Kopřivnice;742 21;;150;NE
+685;Pod lipou;penzion;Loučovice;Loučovice;382 76;***;9;NE
+686;Pod nebem;penzion;Zdobnice;Zdobnice;517 16;**;30;NE
+687;Pod pálavským sluncem;penzion;;Bavory;692 01;;9;NE
+688;Pod pralesem - Mladé Buky;penzion;Antoníčkovo Údolí;Mladé Buky;542 23;***;40;NE
+689;Pod sedlem;hotel;Kouty nad Desnou;Kouty nad Desnou;788 12;;29;ANO
+690;Ranč Eden;penzion;Lipovská;Jeseník;790 01;;6;NE
+691;Ranč u řeky;penzion;Tavíkovice;Tavíkovice;671 40;;49;NE
+692;Randezvous;hotel;Střelecká;Valtice;691 42;***;18;ANO
+693;RANCH - Václav Merta;penzion;Vernířovice;Vernířovice;788 15;;10;NE
+694;Ráztoka;hotel;Trojanovice;Trojanovice;744 01;***;105;NE
+695;Real;penzion;Bedřichov;Bedřichov;468 12;;27;ANO
+696;Rebus;hotel;Litoměřická;Praha 9 - Prosek;190 00;*;187;NE
+697;Regia;hotel;Elišky Přemyslovny;Praha 5 - Zbraslav;156 16;***;44;NE
+698;Regina - Rozkvět;hotel;Nová louka;Karlovy Vary;360 01;**;135;NE
+699;Regina - Větřní;penzion;Větřní;Větřní;382 11;;20;ANO
+700;Reha - Sanatorium;hotel;Stará Vráž;Stará Vráž;398 32;;120;NE
+701;Rehavital;hotel;Jugoslávská;Jablonec nad Nisou;466 01;****;52;ANO
+702;Rehus;hotel;Cukrovarská;Praha 9 - Čakovice;190 00;**;110;NE
+703;Rejvíz;penzion;Rejvíz;Rejvíz;793 76;**;81;NE
+704;Rekons;penzion;Lipová-lázně;Lipová-lázně;790 63;;27;ANO
+705;Rekrea;hotel;Slovenského bratrství;Pelhřimov;393 01;***;110;NE
+706;Rekreační středisko ČD;penzion;Antoníčkovo údolí;Mladé Buky;542 23;***;43;NE
+707;Rela;penzion;Malá Morávka;Malá Morávka;793 36;;18;ANO
+708;Relax - Rožnov pod Radhoštěm;hotel;Lesní;Rožnov pod Radhoštěm;756 61;***;170;NE
+709;Relax - Tábor;hotel;Varšavská;Tábor;390 01;***;46;NE
+710;Relax - Telč;penzion;Na posvátné;Telč;588 56;;10;NE
+711;Relax - Vranov nad Dyjí;penzion;Vranov nad Dyjí;Vranov nad Dyjí;671 03;;35;NE
+712;Relax Centrum;penzion;Novoveská;Jablonec nad Nisou;466 01;;46;NE
+713;Relaxa;penzion;Žďárský potok;Žďárský potok;793 43;;90;NE
+714;Relaxas;penzion;Borovice;Borovice;294 14;**;30;NE
+715;Renaissance;hotel;V celnici;Praha 1 - Staré Město;110 00;*****;624;ANO
+716;Renospond;hotel;Zderaz;Zderaz;539 44;**;80;NE
+717;Residence Malá Strana;hotel;Mělnická;Praha 5 - Malá Strana;150 00;***;70;ANO
+718;Resko;penzion;Petříkov;Petříkov;788 26;;90;NE
+719;Retour;hotel;Slévačská;Praha 9 - Hloubětín;194 00;***;200;NE
+720;Réva;hotel;Česká;Mikulov;692 01;***;44;NE
+721;Rhea;hotel;V úžlabině;Praha 10 - Malešice;100 00;***;779;ANO
+722;Rieger;hotel;Komenského;Jičín;506 01;;30;NE
+723;Richmond;hotel;Slovenská;Karlovy Vary;360 01;***;101;NE
+724;Rixi;hotel;Špičák;Špičák;340 04;**;150;NE
+725;Rodina;penzion;B. Smetanové;Luhačovice;763 26;;25;ANO
+726;Rodina Horníkova;penzion;Boží Dar;Boží Dar;362 62;;4;NE
+727;Rodos;penzion;Celní;Hlučín;748 01;;20;ANO
+728;Rohatý krokodýl;hotel;Husova;Mikulov;692 01;***;34;NE
+729;Rohlenka motorest;motel;;Rohlenka-Tvarožná;664 05;;13;NE
+730;Rolný zámek;hotel;Nový Světlov;Bojkovice;687 71;***;150;NE
+731;Romantik;penzion;Světce;Světce;347 01;*;25;ANO
+732;Ron;hotel;Mikulášovice;Mikulášovice;407 79;***;14;NE
+733;Ronni;hotel;Rostovská;Praha 10 - Vršovice;100 00;*;105;NE
+734;Roosevelt;hotel;Rooseveltova;Litoměřice;412 01;***;62;ANO
+735;Rosa - Liberec;penzion;Sportovní;Liberec;463 13;**;52;ANO
+736;Rosa - Luhačovice;penzion;Ant. Slavíčka;Luhačovice;763 26;;45;NE
+737;Rosa - Řetenice;hotel;;Řetenice;384 73;***;28;ANO
+738;Rozvoj - Klatovy;hotel;Procházkova;Klatovy;339 01;***;60;ANO
+739;Rual;hotel;Poborovice;Poborovice;339 01;**;34;NE
+740;Rubeška lázeňský dům;hotel;Ruská;Františkovy Lázně;351 01;**;455;ANO
+741;Rudka;hotel;;Kunštát;679 72;*;20;ANO
+742;Rudolec;penzion;Český Rudolec;Český Rudolec;378 83;***;10;NE
+743;Rudolf - Liberec;hotel;U Vleku;Liberec;460 17;***;31;NE
+744;Rudolf - Nové Dvory;hotel;Masarykovo náměstí;Nové Dvory;285 31;***;32;NE
+745;Rumcajs;motel;Koněvova;Jičín;506 01;**;170;NE
+746;Rusava;penzion;Rusava;Rusava;768 41;**;90;NE
+747;Rustica;hotel;Staré Sedlo;Staré Sedlo;348 04;**;56;ANO
+748;Rustical;hotel;Červený kopec;Brno;602 00;****;100;NE
+749;Rustikal;hotel;Havlíčkova;Horní Cerekev;394 03;;45;NE
+750;Růže - Český Krumlov;hotel;Horní;Český Krumlov;381 01;****;110;NE
+751;Růže - Hlinová;penzion;Hlinová;Hlinová;350 02;*;17;ANO
+752;Růže - Jeseník;penzion;Rejvízská;Jeseník;790 01;;17;ANO
+753;Růže - Karlovy Vary;hotel;I. P. Pavlova;Karlovy Vary;360 01;***;44;NE
+754;Růže - Rožmberk nad Vltavou;hotel;Rožmberk nad Vltavou;Rožmberk nad Vltavou;382 18;***;38;NE
+755;Růže - Vítkov;hotel;Opavská;Vítkov;749 01;;35;NE
+756;Růžička;penzion;Zahradní;Třebíč;674 01;;10;NE
+757;Rybárna;penzion;;Teplice nad Metují;549 57;**;70;ANO
+758;Rybářská bašta - Hlučín;soukro;Generála Svobody;Hlučín;748 01;;16;ANO
+759;Řepy;hotel;Makovského;Praha 6 - Řepy;163 00;**;140;NE
+760;S;penzion;Husova;Nepomuk;335 01;;20;ANO
+761;S-O-N;penzion;1. máje;Hrádek nad Nisou;463 34;***;12;NE
+762;S - Junior;penzion;Mentaurov;Žitenice;411 41;**;75;ANO
+763;S.E.N.;hotel;Malostranská;Senohraby;251 66;****;132;NE
+764;Sabas;penzion;Nádražní;Javorník;790 70;;30;NE
+765;Safrane;penzion;Na Bylance;Kutná Hora;284 01;***;10;NE
+766;Sach;penzion;;Horní Bečva;756 57;;42;NE
+767;Salivar;hotel;Horní Vltavice;Horní Vltavice;384 91;**;72;ANO
+768;Saloon;hotel;Tyršovo nábřeží;Zlín;760 01;***;55;ANO
+769;Salva Guarda;hotel;Mírové náměstí;Litoměřice;412 01;****;50;NE
+770;Salvia;penzion;třída ČSA;Veselí nad Lužnicí;391 81;;26;ANO
+771;Sam;penzion;Vernířovice;Vernířovice;788 15;;11;NE
+772;Sandra - Hamr na Jezeře;penzion;Hamr na Jezeře;Hamr na Jezeře;471 28;***;20;ANO
+773;Sandra - Praha;hotel;Nad Opatovem;Praha 4 - Chodov;149 00;**;380;ANO
+774;Sanssouci - Karlovy Vary;hotel;Jarní;Karlovy Vary;360 01;***;247;NE
+775;Sanssouci - Praha;hotel;V podhájí;Praha 4 - Podolí;147 00;***;21;ANO
+776;Santon;hotel;Přístavní;Brno - Bystrc;635 00;**;220;NE
+777;Sarkander;soukro;Hornická;Zlaté Hory;793 76;;24;ANO
+778;Satelit;penzion;Deštné v Orlických horách;Deštné v Orlických horách;517 91;**;28;ANO
+779;Saturn;hotel;Křišťanovice;Křišťanovice;384 33;**;80;NE
+780;Savary;hotel;Nivnice;Nivnice;687 51;***;88;NE
+781;Savoy - Ostrava;hotel;Macharova;Ostrava;702 00;***;43;NE
+782;Savoy - Praha;hotel;Keplerova;Praha 1 - Hradčany;110 00;*****;122;NE
+783;Savoy - Špindlerův Mlýn;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;***;92;NE
+784;Sax;hotel;Jánský vršek;Praha 1 - Malá Strana;110 00;***;45;NE
+785;Sázava;hotel;Sázava;Sázava;592 11;;212;NE
+786;Sázavan;hotel;náměstí Míru;Zruč nad Sázavou;285 22;***;76;ANO
+787;Scandinavia;hotel;Drnovská;Praha 6 - Ruzyně;161 00;**;51;ANO
+788;Sedláček;penzion;Horní Hutě;Horní Hutě;588 61;;47;NE
+789;Sedmikráska - Dolní Lysečiny;penzion;Dolní Lysečiny;Dolní Lysečiny;542 26;**;50;NE
+790;Sedmikráska - Vojkov;hotel;Vojkov;Vojkov;251 62;***;46;NE
+791;Selská světnička;hotel;Jesenická;Lipová-lázně;790 61;**;47;NE
+792;Selský dvůr - Chotěšovičky;penzion;Chotěšovičky;Chotěšovičky;349 74;***;30;NE
+793;Selský dvůr - Pěkov;penzion;Pěkov;Pěkov;549 61;**;10;NE
+794;Selský dvůr - Praha;hotel;K Horkám;Praha 10 - Hostivař;102 00;****;57;ANO
+795;Senátor;hotel;Kamenická;Děčín 2;405 02;***;55;ANO
+796;Seňková;penzion;Březová;Děčín;405 01;***;53;ANO
+797;Sepresso;penzion;Viaduktová;Český Těšín;737 01;;10;NE
+798;Sfinx;hotel;Kobylnice;Kobylnice;382 78;***;35;NE
+799;Schlosshotel Barta;hotel;Klimentov;Klimentov;353 01;***;56;ANO
+800;Schlosshotel Hubertus;hotel;Třebušín;Třebušín;411 43;***;31;NE
+801;Sonáta - České Budějovice;hotel;Riegrova;České Budějovice;370 01;***;70;ANO
+802;SOU Bzenec;penzion;náměstí Svobody;Bzenec;696 81;***;48;NE
+803;Soudek;hotel;Palackého;Poděbrady;290 01;***;31;NE
+804;Soult;hotel;Nádražní;Slavkov u Brna;684 01;**;32;NE
+805;Sovín;hotel;K přehradě;Boršice u Buchlovic;687 09;;45;NE
+806;Spálený Mlýn;penzion;;Bojov;252 02;**;20;ANO
+807;Spartak - Hynčice pod Sušinou;soukro;;Hynčice pod Sušinou;788 32;;90;NE
+808;Splendid;hotel;Ovenecká;Praha 7 - Bubeneč;170 00;***;110;NE
+809;Split;hotel;Tržiště;Karlovy Vary;360 01;***;41;NE
+810;Společenský dům - Luhačovice;hotel;Lázeňské náměstí;Luhačovice;763 26;**;26;ANO
+811;Spolkový dům;hotel;1. máje;Přeštice;334 01;**;50;NE
+812;Sport - Buřany;penzion;Buřany;Buřany;512 43;;28;ANO
+813;Sport - Český Dub;hotel;Husova;Český Dub;463 43;;24;ANO
+814;Sport - Havlíčkův Brod;soukro;Ledečská;Havlíčkův Brod;580 01;;63;ANO
+815;Sport - Chomutov;penzion;Čelakovského;Chomutov;430 01;***;32;NE
+816;Sport - Jablonec nad Nisou;hotel;U stadionu;Jablonec nad Nisou;466 01;*;120;NE
+817;Sport - Jedovnice;penzion;Tyršova osada;Jedovnice;679 06;***;18;ANO
+818;Sport - Karviná;hotel;Karla Sliwky;Karviná - Fryštát;733 01;**;63;ANO
+819;Sport - Kralupy nad Vltavou;hotel;U cukrovaru;Kralupy nad Vltavou;278 01;***;400;ANO
+820;Sport - Mariánské Lázně;hotel;Plzeňská;Mariánské Lázně;353 01;***;80;NE
+821;Sport - Oslavany;hotel;Sportovní;Oslavany;664 12;*;54;ANO
+822;Sport - Petříkov;soukro;Petříkov;Petříkov;788 26;;60;ANO
+823;Sport - Přeštice;hotel;1. máje;Přeštice;334 01;*;54;ANO
+824;Střelnice - Kněžmost;hotel;V Cihelně;Kněžmost;294 02;***;58;ANO
+825;Střelnice - Loštice;hotel;Havelkova;Loštice;789 83;*;68;ANO
+826;Studenec;hotel;Studenec;Rožmberk nad Vltavou;382 18;***;18;ANO
+827;Student;penzion;Rokytno;Rokytno;592 31;;25;ANO
+828;Sůkenická;hotel;Bílá;Bílá;739 15;***;37;NE
+829;Sunshine;hotel;Drahobejlova;Praha 9 - Libeň;190 00;**;60;ANO
+830;Surelli;hotel;Sokolovská;Čelákovice;250 88;**;150;NE
+831;Surf;hotel;;Slapy - Ždáň;252 08;**;90;NE
+832;Suvorov;hotel;Ruská;Mariánské Lázně;353 01;*;244;NE
+833;Svatá Anna - Svatá Anna;penzion;;Svatá Anna;391 18;**;70;ANO
+834;Svatý Kryštof;motel;Tupadly;Tupadly;277 21;***;25;ANO
+835;Svatý Michal;penzion;Černý Důl;Černý Důl;543 43;***;23;ANO
+836;Svoboda - Jablonec nad Nisou;penzion;Svatopluka Čecha;Jablonec nad Nisou;466 01;;12;NE
+837;Svoboda - Mariánské Lázně;hotel;Chopinova;Mariánské Lázně;353 01;**;182;NE
+838;Svoboda - Obrataň;penzion;Nádražní;Obrataň;394 12;**;18;ANO
+839;Svoboda - Rejvíz;penzion;Rejvíz;Rejvíz;793 76;*;65;ANO
+840;Svornost - Harrachov;hotel;Harrachov;Harrachov;512 46;***;286;ANO
+841;Svornost - Praha;hotel;Novozámecká;Praha 9 - Dolní Počernice;190 12;***;21;ANO
+842;Svratka;hotel;;Svratka;592 03;;145;NE
+843;Swing;hotel;;Černá v Pošumaví;382 23;***;94;NE
+844;Sykovec;penzion;;Tři Studně;592 04;**;58;ANO
+845;Sylva;penzion;Roháčova;Tábor;390 01;**;23;ANO
+846;Synot;hotel;Nad hřištěm;Staré Město;686 02;****;50;NE
+847;Synthesia - Seč;hotel;Kamenná obec;Seč;538 07;**;56;ANO
+848;Sytno;motel;Sytno;Sytno;349 01;**;8;NE
+849;Terezka;hotel;Jana Palacha;Břeclav;690 01;**;60;ANO
+850;Těrlicko;motel;Nad hrází;Těrlicko;735 42;**;50;NE
+851;Tesla - Blatná;penzion;Boženy Němcové;Blatná;388 15;;116;NE
+852;Tesla - Rožnov pod Radhoštěm;hotel;Meziříčská;Rožnov pod Radhoštěm;756 61;***;120;NE
+853;Tetřev;hotel;Kostíkovo náměstí;Mosty u Jablunkova;739 98;;130;NE
+854;Theresia;hotel;Na Petříně;Kolín;280 02;***;74;ANO
+855;Thermal - Karlovy Vary;hotel;I. P. Pavlova;Karlovy Vary;360 01;****;533;ANO
+856;Thermal - Teplice;hotel;U Kamenných lázní;Teplice;415 02;***;27;ANO
+857;Thomayer lázeňské sanatorium;hotel;Petra Velikého;Karlovy Vary;360 01;***;160;NE
+858;TIL VO trade;penzion;Fučíkova;Rýmařov;795 01;***;20;ANO
+859;Tilia;penzion;Křížová;Český Krumlov;381 01;;10;NE
+860;Tina;penzion;Pod Lázněmi;Prachatice;383 01;**;18;ANO
+861;Tisůvka;penzion;;Škrdlovice;592 21;;22;ANO
+862;TJ Sokol - Karlštejn;penzion;Karlštejn;Karlštejn;267 18;***;30;NE
+863;TJ Žďas;hotel;Kovářova;Žďár nad Sázavou;591 01;;420;ANO
+864;Toločko Antonín;penzion;Novina;Novina;460 01;;10;NE
+865;Tom - Starý Plzenec;hotel;Masarykovo náměstí;Starý Plzenec;332 02;***;10;NE
+866;Tom - Veltěž;penzion;Průběžná;Veltěž;250 66;***;24;ANO
+867;Tom Zámeček;hotel;Husova;Vrbno pod Pradědem;793 26;***;50;NE
+868;Tomoli;hotel;Dlouhá;Abertamy;362 35;***;18;ANO
+869;Tomy;hotel;Kaplického;Liberec;460 13;***;87;NE
+870;Tonička - pension;penzion;Bendlova;Kladno;272 00;*;19;ANO
+871;Top Star;hotel;Krátká;Praha 10 - Strašnice;100 00;***;50;NE
+872;Tosca sanatorium;hotel;Moravská;Karlovy Vary;360 01;***;206;NE
+873;Tourist;hotel;Peroutkova;Praha 5 - Smíchov;158 00;**;455;ANO
+874;Továrna na Piána;soukro;Brněnská;Hradec Králové;500 06;;66;ANO
+875;Transmotel Sokolov;motel;;Sokolov;356 61;***;80;NE
+876;Trattoria;penzion;Huzová;Huzová;793 57;;20;ANO
+877;Trautenberk;penzion;Rovnáčov;Rovnáčov;512 33;***;37;NE
+878;Travinář;penzion;Zemědělská;Rožnov pod Radhoštěm;756 61;;60;ANO
+879;Trenz;hotel;náměstí Míru;Židlochovice;667 01;**;38;NE
+880;Triumph - Brno;hotel;Vodova;Brno;612 00;**;83;NE
+881;Trnávka;penzion;Želiv;Želiv;394 44;***;30;NE
+882;Trocnov;hotel;třída krále Jiřího;Karlovy Vary;360 01;****;50;NE
+883;Troníček;hotel;Žampach;Žampach;254 01;***;40;NE
+884;Trosky;hotel;Troskovice;Troskovice;512 63;**;30;NE
+885;Tři lilie;hotel;Národní třída;Františkovy Lázně;351 01;****;59;ANO
+886;Tři studně;hotel;;Tři Studně;592 04;*;36;NE
+887;TU Kralupy nad Vltavou;soukro;Ke koupališti;Kralupy nad Vltavou;278 01;;8;NE
+888;TU Tichá;soukro;Tichá;Tichá;742 74;;60;ANO
+889;Tučňák;penzion;Komenského;Zábřeh;789 01;;10;NE
+890;Tulipán;hotel;Tulipánova;Průhonice;252 43;***;77;ANO
+891;Tupadly;hotel;Tupadly;Tupadly;277 21;****;24;ANO
+892;U Dihlů;penzion;Hradecká;Hradec nad Moravicí;747 41;;13;NE
+893;U Dittrichů;penzion;Přemyslovka;Prostějov;796 01;;11;NE
+894;U divadla;hotel;náměstí Republiky;Znojmo;669 02;**;18;ANO
+895;U Doležalů;penzion;Hlavňov;Hlavňov;549 54;**;14;NE
+896;U Dómu;hotel;Dómská;Olomouc;772 00;***;21;ANO
+897;U Dostálů - Bedřichov;penzion;Bedřichov;Bedřichov;468 12;;10;NE
+898;U Dostálů - Troskovice;penzion;Troskovice;Troskovice;512 63;;17;ANO
+899;U draka;hotel;Libušina;Bechyně;391 65;;20;ANO
+900;U Dubu - Tanvald;hotel;;Tanvald;468 41;;40;NE
+901;U dvou čápů;penzion;;Vestec;257 24;***;35;NE
+902;U dvou jelenů;hotel;náměstí ČSA;Jaroměř;551 01;**;40;NE
+903;U Galerie;penzion;Rytířská;Český Krumlov;381 01;***;10;NE
+904;U hada;hotel;náměstí Svobody;Žatec;438 01;****;54;ANO
+905;U nás - Bartošovice;penzion;;Bartošovice v Orlických horá;517 63;***;15;NE
+906;U Nedbálků;hotel;Ostrovačice;Ostrovačice;664 81;**;15;NE
+907;U Němců;penzion;Moravská;Varnsdorf;407 47;;10;NE
+908;U Nešlehů;penzion;Nová Hůrka;Horní Planá;382 26;;18;ANO
+909;U Nováků - Kolín;penzion;Komenského;Kolín;280 00;***;18;ANO
+910;U Nováků - Kožlí;penzion;;Kožlí;398 07;;27;ANO
+911;U Nováků - Přerov;penzion;Čechova;Přerov;750 02;**;9;NE
+912;U panny;penzion;Jezvé;Jezvé;471 08;*;14;NE
+913;U Pašáka;penzion;Pec pod Sněžkou;Pec pod Sněžkou;542 21;;43;NE
+914;U páva;hotel;U Lužického semináře;Praha 1 - Malá Strana;110 00;****;22;ANO
+915;U Pavla;motel;Polská;Náchod;547 01;;10;NE
+916;U pelikána;penzion;;Kouty nad Desnou;788 12;;48;NE
+917;U pivovaru;penzion;Pivovarská;Český Krumlov;381 01;**;6;NE
+918;U Planety;soukro;Ctibořská;Halže;348 16;**;35;NE
+919;U Třeboňského kola;penzion;Táboritská;Třeboň;379 01;;24;ANO
+920;U Třebůvky;penzion;Olomoucká;Loštice;789 83;;24;ANO
+921;U tří lvů;hotel;U tří lvů;České Budějovice;370 01;***;83;NE
+922;U tří pštrosů - Praha;hotel;Dražického náměstí;Praha 1 - Malá Strana;118 00;***;32;NE
+923;U tří pštrosů - Újezd pod Přimdou;soukro;;Újezd pod Přimdou;348 06;*;51;ANO
+924;U tří růží;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;***;32;NE
+925;V břízkách;penzion;V břízkách;Kolín;280 02;;6;NE
+926;V galerii;penzion;náměstí Míru;Slavonice;378 81;**;6;NE
+927;V Nebi;hotel;Josefův Důl;Josefův Důl;468 44;***;32;NE
+928;V podhradí;hotel;Přimdská;Přimda;348 06;****;10;NE
+929;V Podzámčí;penzion;J. Seiferta;Mělník;276 01;;5;NE
+930;V pohodě;penzion;Lázeňská;Konstantinovy Lázně;349 52;**;18;ANO
+931;V ráji;hotel;28. října;Liberec 7;460 07;**;25;ANO
+932;Václavov;hotel;Václavov;Václavov;789 01;**;110;NE
+933;Vajgar;hotel;náměstí Míru;Jindřichův Hradec;377 01;**;45;NE
+934;Vakor;hotel;Plzeňská;Chotěšov;332 14;****;45;NE
+935;Valdštejn;hotel;Růžodolská;Liberec 11;460 01;;60;ANO
+936;Valentýna;hotel;Masarykova;Česká Skalice;552 03;*;21;ANO
+937;Valeš;penzion;Budějovická;Borovany;373 12;;11;NE
+938;Valešinka;penzion;Na Valešince;Příbram;261 01;;12;NE
+939;Valnovka;penzion;Ládví;Ládví;251 68;**;12;NE
+940;Vaníček;hotel;Na Hřebenkách;Praha 5 - Smíchov;150 00;***;55;ANO
+941;Ve dvorku;penzion;Plešivec;Plešivec;381 01;;10;NE
+942;Veso - Lázně III.;hotel;Mlýnské nábřeží;Karlovy Vary;360 01;***;38;NE
+943;Vestas;soukro;Telnice;Telnice;403 38;;52;ANO
+944;Větrník;penzion;Lojzova Paseka;Lojzova Paseka;382 79;;200;NE
+945;Větrný mlýn;penzion;Ruzyňská;Praha 6 - Ruzyně;161 00;***;30;NE
+946;Veverka;penzion;Moskevská;Vejprty;431 91;**;22;ANO
+947;Victoria;hotel;Borská;Plzeň;320 22;***;101;NE
+948;Vienna;hotel;náměstí E. Beneše;Teplice;415 01;***;18;ANO
+949;Viktor;hotel;Budovatelů;Most;434 01;**;200;NE
+950;Viktoria;penzion;Nádražní;Příbor;742 58;;14;NE
+951;Vila Bystrica;penzion;Dr. Veselého;Luhačovice;763 26;;56;ANO
+952;Vila Dagmar;hotel;Dr. Veselého;Luhačovice;763 26;**;90;NE
+953;Vila Grand;penzion;Pod Kamennou;Luhačovice;763 26;;30;NE
+954;Vila Háj;penzion;;Třeština;789 85;**;16;ANO
+955;Vila Iva;penzion;Mošnova;Liberec 14;460 14;;10;NE
+956;Vila Ostravice;penzion;Ostravice;Ostravice;739 14;;20;ANO
+957;Vila Rosemarie;penzion;Prokopa Holého;Liberec 1;460 01;;8;NE
+958;Vila Růžová;penzion;Lázeňské náměstí;Luhačovice;763 26;;20;ANO
+959;Vila Titania;hotel;Krále Jiřího;Karlovy Vary;360 01;***;24;ANO
+960;Villa Basileia;penzion;Mariánskolázeňská;Karlovy Vary;360 01;***;14;NE
+961;Villa Butterfly;hotel;Hlavní;Mariánské Lázně;353 01;****;200;NE
+962;Villa Cristina;hotel;Brněnská;Hradec Králové;500 02;***;21;ANO
+963;Villa Franke;penzion;Riegrova;Tišnov;666 01;;8;NE
+964;Villa Maria;penzion;Fugnerova;Karlovy Vary;360 01;**;35;NE
+965;Villa Voyta;hotel;K Novému dvoru;Praha 4 - Lhotka;142 00;****;25;ANO
+966;Villa Vydra;penzion;Pancířská;Železná Ruda;340 04;;10;NE
+967;Vinium;penzion;Dolní Paseky;Dolní Paseky;756 61;;59;ANO
+968;Viola;penzion;Thomayerova;Domažlice;344 01;*;9;NE
+969;Weber;hotel;Bedřichov;Bedřichov;468 12;***;56;ANO
+970;Weiss;hotel;Lechovice;Lechovice;671 63;***;35;NE
+971;White House;penzion;Lipová;Rudolfov;373 71;;10;NE
+972;Wienna;hotel;Internacionální;Praha 6 - Suchdol;165 00;****;150;NE
+973;Wilhelm;hotel;Hošťálkova;Praha 6 - Břevnov;160 00;**;53;ANO
+974;Windsor;hotel;Špindlerův Mlýn;Špindlerův Mlýn;543 51;***;72;ANO
+975;Winkler;hotel;Nezvalova;Třebíč;674 01;***;30;NE
+976;Yetti;hotel;Švermova;Vejprty;431 91;***;45;NE
+977;York;hotel;Prvomájová;Plzeň - Křimice;322 00;***;57;ANO
+978;Z (Agro);penzion;Jiřetínská;Albrechtice v Jizerských hor;468 43;;32;NE
+979;Z&Z;penzion;Vítkova;Tábor;390 01;;14;NE
+980;Zadov;hotel;Zadov;Zadov;384 73;**;107;NE
+981;Zafír;motel;Ostravská;Příbor;742 58;;29;ANO
+982;Zakšín;penzion;Zakšín;Zakšín;471 41;***;25;ANO
+983;Zálesí - Luhačovice;hotel;Zatloukalova;Luhačovice;763 26;***;68;ANO
+984;Záložna - Litovel;hotel;náměstí Přemysla Otakara;Litovel;784 01;*;33;NE
+985;Zimní stadion - Tábor;hotel;Václava Soumara;Tábor;390 03;*;52;ANO
+986;Zlatá hruška;penzion;Čs. armády;Planá nad Lužnicí;391 11;;10;NE
+987;Zlatá hvězda - Jihlava;hotel;Masarykovo náměstí;Jihlava;586 01;***;39;NE
+988;Zlatá hvězda - Litomyšl;hotel;Smetanovo náměstí;Litomyšl;570 01;***;44;NE
+989;Zlatý lev - Liberec;hotel;Guttenbergova;Liberec 1;460 01;***;150;NE
+990;Zlatý oslík;penzion;Pražská;Cheb 2;350 02;;50;NE
+991;Zlatý potok;hotel;Kostelec;Kounov;517 92;**;17;ANO
+992;Zlatý zámek;hotel;Klíčova;Mariánské Lázně;353 01;***;60;ANO
+993;Zlechov;hotel;Plumlovská přehrada;Plumlov;798 02;;25;ANO
+994;Zoja;hotel;Javorník;Rudník;543 72;****;48;NE
+995;Zubříč;hotel;Rajnochovice;Rajnochovice;768 71;***;104;NE
+996;ZV;penzion;Palackého;Loštice;789 83;;11;NE
+997;Zvěřínek;penzion;Na skřivanech;Liberec;460 01;;20;ANO
+998;Zvíkov;hotel;Zvíkovské Pohradí;Zvíkovské Podhradí;398 35;***;30;NE
+999;Žižka;penzion;Rabyně;Rabyně;252 08;**;45;NE
+

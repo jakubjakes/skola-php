@@ -1,0 +1,71 @@
+/* CSS Document */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+    padding: 0.5rem;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: block;
+     margin: 0.5rem 0;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 1rem;
+    padding-bottom: 8rem;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+    padding: 0.5rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 6rem;
+}
+/*obrazky*/
+img {
+margin: 10px;
+}
+.vlevo {
+float: left;
+}
+.vpravo {
+float: right;
+}
+
+@media (min-width: 480px) {
+    header, footer {
+        padding: 1rem;
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+    nav ul li {
+        display: inline;
+        margin: 0 1rem;
+       
+    }
+}
+

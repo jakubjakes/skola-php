@@ -1,0 +1,22 @@
+<div style='border: 1px solid black; padding: 15px; margin: 10px 0; background-color: #f9f9f9; border-radius: 5px; font-family: Arial, sans-serif;'>
+    <strong>Návštěvník:</strong> JAKUB <br>
+    <strong>Datum:</strong> 19. 1. 2026 12:49:53<br>
+    <strong>Email:</strong> jakub@example.com<br>
+    <hr style='border: 0; border-top: 1px solid black; margin: 10px 0;'>
+    <strong>Zpráva:</strong><br>
+    
+</div><div style='border: 1px solid ; padding: 15px; margin: 10px 0; background-color: #f9f9f9; border-radius: 5px; font-family: Arial, sans-serif;'>
+    <strong>Návštěvník:</strong> JAKUB <br>
+    <strong>Datum:</strong> 19. 1. 2026 12:49:17<br>
+    <strong>Email:</strong> jakub@example.com<br>
+    <hr style='border: 0; border-top: 1px solid #ddd; margin: 10px 0;'>
+    <strong>Zpráva:</strong><br>
+    jkmhjbj,
+</div><div style='border: 1px solid #ccc; padding: 15px; margin: 10px 0; background-color: #f9f9f9; border-radius: 5px; font-family: Arial, sans-serif;'>
+    <strong>Návštěvník:</strong> JAKUB <br>
+    <strong>Datum:</strong> 19. 1. 2026 12:35:09<br>
+    <strong>Email:</strong> jakub@example.com<br>
+    <hr style='border: 0; border-top: 1px solid #ddd; margin: 10px 0;'>
+    <strong>Zpráva:</strong><br>
+    dsa
+</div>

@@ -1,0 +1,36 @@
+<h2>Žádost o studijní pobyt - vstupní formulář</h2>
+<form method="post">
+<fieldset>
+<legend>Údaje o žadateli</legend>
+Jméno: <input type="text" size="15"><br> <br>
+Příjmení: <input type="text" size="15"><br><br>
+E-mail: <input type="email"><br> <br>
+Státní příslušnost: <input type="text"size="10">                      
+</fieldset><br><br>
+Pohlaví: <br>
+muž <input type="radio">
+žena <input type="radio">    <br><br>
+
+Úroveň znalosti anglického jazyka:<br>
+<select>
+  <option>začátečník</option>
+  <option>mírně pokročilý</option>
+  <option>středně pokročilý</option>
+  <option>pokročilý</option>
+  <option>jazykově způsobilý</option>
+</select>   
+<br><br>
+Znalost dalších cizích jazyků:<br>
+ruský <input type="checkbox">  
+německý <input type="checkbox">  
+francouzský<input type="checkbox">                     
+španělský<input type="checkbox"> 
+<br><br>
+
+Zájmy:<br>
+<textarea rows="5" cols="40"></textarea>
+<br><br>
+
+<input type="submit">
+
+</form>
